@@ -1,4 +1,4 @@
-<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+sfbarragan845/skills-hello-github-actions/actions/workflows/<WORKFLOW_FILE>/badge.svg
 <header>
 
 <!--
